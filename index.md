@@ -2,7 +2,7 @@
 
 Having your first pull request (PR) accepted in an open source project is one of the best feelings there is when it comes to working with open source code. There's nothing like working with other people, contributing to a project you care about, and showing off your crazy coding skills through a great PR. This guide will establish some guidelines on how to make your PRs amazing!
 
-At the end of this guide we've included a step-by-step walkthrough to get you to **submit your first pull request** :)
+At the end of this guide we've included a step-by-step walkthrough to get you to **submit your first pull request** woohoo
 
 ### Finding a Project to Contribute to
 
